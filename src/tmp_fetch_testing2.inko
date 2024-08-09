@@ -1,0 +1,3 @@
+fn pub version -> String {
+  '0.0.1'
+}
